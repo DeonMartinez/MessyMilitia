@@ -1,3 +1,3 @@
 # MessyMilitia
 
-DeonMartinez/MessyMilitia
+https://deonmartinez.github.io/MessyMilitia/
